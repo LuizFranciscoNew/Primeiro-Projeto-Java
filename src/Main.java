@@ -19,7 +19,7 @@ public class Main {
         System.out.println("Média: " + media);
 
         String sinopse;
-        sinopse = "Filme de Aventura com galã dos anoos 80";
+        sinopse = "Filme de Aventura com galã dos anos 80";
         System.out.println(sinopse);
     }
 }
